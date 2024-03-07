@@ -34,6 +34,7 @@ I'm creating this repo to keep track of the dozens of exercises that I've come a
 
 ### Chest leaning 30° pronated
 
+- Can be done simply bent over with a barbell behind you.
 - [Video](https://youtu.be/ozZKx9yC24E?si=PIeQeAZokWWM-E86&t=556)
 
 ## Anterior Deltoid
