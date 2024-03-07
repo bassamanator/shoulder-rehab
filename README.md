@@ -6,13 +6,21 @@ I'm creating this repo to keep track of the dozens of exercises that I've come a
 
 # Rehabilitation Exercises
 
+## Thoracic Mobility
+
+### Supinated short band pull apart at wrist, elbows at 90°
+
+- Serratus anterior
+- Can be done with a foam roller against the wall.
+- [Video](https://youtu.be/Y7hD07u6-zg?si=O7ep6IdA7rG1_4U-&t=689)
+
 ## External Rotation
 
 ### Long Band pull apart supinated
 
 - [Video](https://youtu.be/Y7hD07u6-zg?si=KZNYAHBIaGCVI6T8&t=538)
 
-### Hip level short band pull apart
+### Hip level short band pull apart supinated
 
 - [Video](https://youtu.be/Y7hD07u6-zg?si=nXJw64Pz-IZmQg5s&t=552)
 
