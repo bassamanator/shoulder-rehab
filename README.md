@@ -49,10 +49,10 @@ I'm creating this repo to keep track of the dozens of exercises that I've come a
 
 ### Front raise supinated bent arm
 
-- Done with DBs or cable.
+- Done with **DBs** or **cable**.
 - [Video](https://youtu.be/ozZKx9yC24E?si=FVeiMFRxXEYG-xkj&t=635)
 
-### Plate steering wheel minor incline
+### Sitting plate steering wheel minor incline
 
 - [Video](https://youtu.be/ozZKx9yC24E?si=razgaJnQs8b4g_bj&t=760)
 
